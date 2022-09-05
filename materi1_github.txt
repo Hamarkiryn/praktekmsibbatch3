@@ -1,4 +1,6 @@
 Pengenalan Github
 Pengenalan Tool Github
-Membuat akun Github
-Fungsi Git/Github
+Pembuatan akun Github
+Fungsi git/github
+Branch
+Cloud
